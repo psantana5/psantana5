@@ -18,10 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Currently playing
+### Currently playing 🔊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pausantanapi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=psantana5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
