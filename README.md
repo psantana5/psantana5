@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santanillo_xd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pau-santana-b12038225) ![Twitter Follow](https://img.shields.io/twitter/follow/:psantana5_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santanillo_xd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pau-santana-b12038225) ![Twitter URL](https://img.shields.io/twitter/psantana5_)
 
 
 # 💻 Tech Stack
