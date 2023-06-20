@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on perfectioning bash and learning c++.<br>🌱 I’m currently learning how to develop a firewall.<br>💬 Ask me about anything Linux and Cybersec related.<br>⚡ Fun fact: I speak 3 languages fluently and I'm learning 2 more.
+🔭 I’m currently working on perfectioning bash and learning c++.<br>💬 Ask me about anything Linux and Cybersec related.<br>⚡ Fun fact: I speak 3 languages fluently and I'm learning 2 more.
 
 
 ## 🌐 Socials:
