@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
 <h3 align="center">A passionate HPC System Administrator from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psantana5&label=Profile%20views&color=0e75b6&style=flat" alt="psantana5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psantana5" alt="psantana5" /></a> </p>
-
 - 🌱 I’m currently learning **HPC and AI**
 
 - 👨‍💻 All of my projects are available at [psantana5.github.io](psantana5.github.io)
