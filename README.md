@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HPC and AI**
 
-- 👨‍💻 All of my projects are available at [psantana5.github.io](psantana5.github.io)
+- 👨‍💻 All of my projects are available at [psantana5.github.io](psantanaportfolio.com)
 
 - 📝 I regularly write articles on [@pausantanapi2](@pausantanapi2)
 
