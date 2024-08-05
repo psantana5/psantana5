@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
-<h3 align="center">A passionate HPC Systems Administrator from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psantana5&label=Profile%20views&color=0e75b6&style=flat" alt="psantana5" /> </p>
 
