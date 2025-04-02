@@ -12,7 +12,7 @@
 
 - 👨‍💻 Reach our cybersecurity services at [https://phoenix-sec.org]
 
-- 📝 I regularly write articles on [https://medium.com/@pausantanapi2](https://medium.com/@pausantanapi2)
+- 📝 I regularly write articles on [https://medium.com/@pausantanapi2](https://medium.com/@psantana5_)
 
 - 💬 Ask me about **Linux, HPC**
 
