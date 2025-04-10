@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psantana5" alt="psantana5" /></a> </p>
 
-- 🔭 I’m currently working on **opening a cybersecurity company**
+- 🔭 I’m currently working on **researching LLM models**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **ML and CUDA**
 
 - 👯 I’m looking to collaborate on **Linux/HPC Projects**
 
