@@ -47,7 +47,8 @@ jobs:
             
             // Generate markdown list
             const projectsList = largestRepos.map(repo => 
-              \"- [**\" + repo.name + \"**](https://github.com/psantana5/\" + repo.name + \")\"
+              \"- [**\" + repo.name + \"**](https://github.com/psantana5/\" + repo.name + \") - \" + 
+              (repo.description || \"HPC-related project focusing on efficient computing solutions\")
             ).join(\"\\n\");
 
             // Update README content
