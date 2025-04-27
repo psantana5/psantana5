@@ -59,9 +59,9 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 ## 💼 Key Projects
 
 <!-- DYNAMIC_REPOS_START -->
-- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc)
-- [**bash-scripts**](https://github.com/psantana5/bash-scripts)
-- [**firewall**](https://github.com/psantana5/firewall)
+- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - HPC-related project focusing on efficient computing solutions
+- [**bash-scripts**](https://github.com/psantana5/bash-scripts) - HPC-related project focusing on efficient computing solutions
+- [**firewall**](https://github.com/psantana5/firewall) - HPC-related project focusing on efficient computing solutions
 <!-- DYNAMIC_REPOS_END -->
 
 ### HPC & Infrastructure
