@@ -21,23 +21,41 @@ jobs:
       - name: Install dependencies
         run: npm install axios
 
-      - name: Fetch Repositories
+      - name: Fetch and Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          node -e '
-          const axios = require("axios");
+          node -e "
+          const fs = require(\"fs\");
+          const axios = require(\"axios\");
           const token = process.env.GITHUB_TOKEN;
-          axios.get("https://api.github.com/users/psantana5/repos", {
-            headers: { Authorization: `token ${token}` }
+          
+          axios.get(\"https://api.github.com/users/psantana5/repos\", {
+            headers: { Authorization: \"token \" + token }
           }).then(async response => {
             const repos = response.data;
             const commitCounts = await Promise.all(repos.map(async repo => {
-              const commits = await axios.get(repo.commits_url.replace("{/sha}", ""), {
-                headers: { Authorization: `token ${token}` }
+              const commits = await axios.get(repo.commits_url.replace(\"{/sha}\", \"\"), {
+                headers: { Authorization: \"token \" + token }
               });
               return { name: repo.name, commits: commits.data.length };
             }));
+            
             const largestRepos = commitCounts.sort((a, b) => b.commits - a.commits).slice(0, 3);
-            console.log("Largest Repositories by Commits:", largestRepos.map(repo => repo.name));
-          }).catch(error => console.error(error));'
+            const readmePath = \"README.md\";
+            let readmeContent = fs.readFileSync(readmePath, \"utf8\");
+            
+            // Generate markdown list
+            const projectsList = largestRepos.map(repo => 
+              \"- [**\" + repo.name + \"**](https://github.com/psantana5/\" + repo.name + \")\"
+            ).join(\"\\n\");
+
+            // Update README content
+            readmeContent = readmeContent.replace(
+              /<!-- DYNAMIC_REPOS_START -->[\\s\\S]*<!-- DYNAMIC_REPOS_END -->/,
+              \"<!-- DYNAMIC_REPOS_START -->\\n\" + projectsList + \"\\n<!-- DYNAMIC_REPOS_END -->\"
+            );
+            
+            fs.writeFileSync(readmePath, readmeContent);
+          }).catch(error => console.error(error));
+          "

@@ -58,6 +58,12 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 
 ## 💼 Key Projects
 
+<!-- DYNAMIC_REPOS_START -->
+- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc)
+- [**bash-scripts**](https://github.com/psantana5/bash-scripts)
+- [**firewall**](https://github.com/psantana5/firewall)
+<!-- DYNAMIC_REPOS_END -->
+
 ### HPC & Infrastructure
 
 - **HPC Cluster Automation Framework with Ansible**: Developed a comprehensive automation framework for HPC cluster deployment and management using Ansible. Created modular playbooks for node provisioning, software installation, and configuration management, reducing deployment time by 60% and ensuring consistent environments across research teams.
