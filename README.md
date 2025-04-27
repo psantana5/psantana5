@@ -59,9 +59,9 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 ## 💼 Key Projects
 
 <!-- DYNAMIC_REPOS_START -->
-- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - HPC-related project focusing on efficient computing solutions
-- [**bash-scripts**](https://github.com/psantana5/bash-scripts) - HPC-related project focusing on efficient computing solutions
-- [**firewall**](https://github.com/psantana5/firewall) - HPC-related project focusing on efficient computing solutions
+- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts. Final project at LinkiaFP for Pau Santana.
+- [**bash-scripts**](https://github.com/psantana5/bash-scripts) -  Welcome to my Bash Playground Repository! 💻  Explore a collection of powerful scripts I've crafted to deploy, configure, and remove various services like DNS, FTP, Email, and Web Servers. Dive into the world of Bash scripting and unleash the true potential of automation. Join me on this exhilarating quest for mastery! ⚡️
+- [**firewall**](https://github.com/psantana5/firewall) - 🔥🔒 Small Firewall Project 🌐🛡️  The firewall project is a network security application implemented in C++. 
 <!-- DYNAMIC_REPOS_END -->
 
 ### HPC & Infrastructure
