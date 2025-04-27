@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 <div align="center">
 
 # Hi there 👋, I'm Pau Santana
@@ -55,9 +56,12 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 
 ## 📝 Recent Blog Posts
 
+<!-- MEDIUM-BLOG-POST-LIST:START -->
+
 - [Optimizing SLURM Configurations for Energy Efficiency](https://medium.com/@psantana5_/optimizing-slurm-configurations-for-energy-efficiency)
 - [Automating Scientific Workflows with Ansible](https://medium.com/@psantana5_/automating-scientific-workflows-with-ansible)
 - [Cloud Bursting: When Your HPC Cluster Needs Extra Power](https://medium.com/@psantana5_/cloud-bursting-when-your-hpc-cluster-needs-extra-power)
+<!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 💼 Key Projects
 
@@ -158,9 +162,12 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 
 ## 📝 Recent Blog Posts
 
+<!-- MEDIUM-BLOG-POST-LIST:START -->
+
 - [Optimizing SLURM Configurations for Energy Efficiency](https://medium.com/@psantana5_/optimizing-slurm-configurations-for-energy-efficiency)
 - [Automating Scientific Workflows with Ansible](https://medium.com/@psantana5_/automating-scientific-workflows-with-ansible)
 - [Cloud Bursting: When Your HPC Cluster Needs Extra Power](https://medium.com/@psantana5_/cloud-bursting-when-your-hpc-cluster-needs-extra-power)
+<!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## 💼 Key Projects
 
