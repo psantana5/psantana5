@@ -59,30 +59,11 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 ## 💼 Key Projects
 
 <!-- DYNAMIC_REPOS_START -->
+
 - [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - HPC-related project focusing on efficient computing solutions
 - [**bash-scripts**](https://github.com/psantana5/bash-scripts) - HPC-related project focusing on efficient computing solutions
 - [**firewall**](https://github.com/psantana5/firewall) - HPC-related project focusing on efficient computing solutions
 <!-- DYNAMIC_REPOS_END -->
-
-### HPC & Infrastructure
-
-- **HPC Cluster Automation Framework with Ansible**: Developed a comprehensive automation framework for HPC cluster deployment and management using Ansible. Created modular playbooks for node provisioning, software installation, and configuration management, reducing deployment time by 60% and ensuring consistent environments across research teams.
-
-- **Scientific Computing Environment Optimization**: Optimized MPI libraries and implemented container-based scientific workflows using Singularity, achieving 35% performance improvement.
-
-- **GPU Computing Infrastructure**: Deployed NVIDIA GPU clusters for AI workloads with power management solutions that reduced energy consumption by 25%.
-
-### AI & Machine Learning
-
-- **Ollama AI ChatBot**: Built a specialized chatbot using Ollama framework for scientific computing assistance. Integrated domain-specific knowledge bases and fine-tuned large language models to provide researchers with instant access to HPC best practices, troubleshooting, and optimization techniques.
-
-- **LLM Code Snippets Library**: Created a comprehensive library of optimized code snippets for large language model deployment in HPC environments. Developed efficient inference pipelines and parallel processing techniques that reduced model loading times by 45% while maintaining accuracy.
-
-### Cloud & Sustainability
-
-- **Hybrid Cloud Bursting Solution**: Implemented cloud bursting capabilities for on-premises HPC clusters with automated scaling policies, saving 30% on computing expenses.
-
-- **Green Computing Optimization**: Implemented power-aware scheduling algorithms that achieved 40% reduction in energy consumption.
 
 ## 📫 Connect With Me
 
@@ -96,7 +77,7 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 
 - 🖥️ Built my first HPC cluster at 18
 - 🌍 Passionate about how computing can accelerate scientific discovery
-- 🔋 I can talk for hours about power efficiency metrics in computing
+- 🔋 I can talk for hours about linux optimization
 
 ---
 
