@@ -62,17 +62,17 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 
 ### HPC & Infrastructure
 
-- **Multi-Node HPC Cluster Deployment**: Designed and implemented a 50-node high-performance computing cluster for genomics research with SLURM workload manager, reducing job queue times by 40%.
+- **HPC Cluster Automation Framework with Ansible**: Developed a comprehensive automation framework for HPC cluster deployment and management using Ansible. Created modular playbooks for node provisioning, software installation, and configuration management, reducing deployment time by 60% and ensuring consistent environments across research teams.
 
 - **Scientific Computing Environment Optimization**: Optimized MPI libraries and implemented container-based scientific workflows using Singularity, achieving 35% performance improvement.
 
 - **GPU Computing Infrastructure**: Deployed NVIDIA GPU clusters for AI workloads with power management solutions that reduced energy consumption by 25%.
 
-### DevOps & Automation
+### AI & Machine Learning
 
-- **CI/CD Pipeline for Scientific Applications**: Designed automated testing and deployment workflows that reduced release cycles from weeks to days.
+- **Ollama AI ChatBot**: Built a specialized chatbot using Ollama framework for scientific computing assistance. Integrated domain-specific knowledge bases and fine-tuned large language models to provide researchers with instant access to HPC best practices, troubleshooting, and optimization techniques.
 
-- **Infrastructure as Code Implementation**: Migrated manual provisioning processes to Terraform and Ansible with modular, reusable components.
+- **LLM Code Snippets Library**: Created a comprehensive library of optimized code snippets for large language model deployment in HPC environments. Developed efficient inference pipelines and parallel processing techniques that reduced model loading times by 45% while maintaining accuracy.
 
 ### Cloud & Sustainability
 
