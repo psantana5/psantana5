@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-pausantanapi2%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pausantanapi2@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/pausantana?style=flat-square&logo=github)](https://github.com/pausantana?tab=followers)
 
-<img src="https://raw.githubusercontent.com/pausantana/pausantana/main/assets/banner.svg" alt="Banner showing HPC clusters, cloud infrastructure, and green computing elements" width="800"/>
+<img src="./assets/banner.svg" alt="Banner showing HPC clusters, cloud infrastructure, and green computing elements" width="800"/>
 
 </div>
 
@@ -93,6 +93,6 @@ Based in Spain, I thrive on challenges that combine technical expertise with inn
 ---
 
 <div align="center">
-  <img src="https://github.com/pausantana/pausantana/blob/main/assets/green-computing.svg" width="200" alt="Green Computing Icon" />
+  <img src="./assets/green-computing.svg" width="200" alt="Green Computing Icon" />
   <p>💡 <i>"The most sustainable byte is the one you don't compute."</i></p>
 </div>
