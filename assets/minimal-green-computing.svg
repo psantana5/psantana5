@@ -1,0 +1,31 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#0A192F" stroke="#64FFDA" stroke-width="1.5"/>
+  
+  <!-- Simplified server -->
+  <rect x="60" y="60" width="80" height="60" rx="4" fill="#2A3A5A" stroke="#64FFDA" stroke-width="1.5"/>
+  
+  <!-- Server slots -->
+  <rect x="70" y="70" width="60" height="10" rx="1" fill="#112240"/>
+  <rect x="70" y="85" width="60" height="10" rx="1" fill="#112240"/>
+  <rect x="70" y="100" width="60" height="10" rx="1" fill="#112240"/>
+  
+  <!-- Status light with pulse animation -->
+  <circle cx="75" cy="75" r="2" fill="#64FFDA">
+    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" />
+  </circle>
+  
+  <!-- Minimal leaf overlay -->
+  <path d="M100,40 C130,40 150,60 150,100 C150,140 130,160 100,160 C100,120 80,100 50,100 C80,100 100,80 100,40" 
+        fill="#4CAF50" fill-opacity="0.4" stroke="#64FFDA" stroke-width="1.5"/>
+  
+  <!-- Energy symbol -->
+  <path d="M90,80 L105,80 L95,60 L110,80 L100,80 L110,100 L90,80" 
+        fill="#FFEB3B" fill-opacity="0.6" stroke="#64FFDA" stroke-width="1"/>
+  
+  <!-- Circular arrow representing sustainability -->
+  <path d="M60,140 A40,40 0 1,1 140,140" fill="none" stroke="#64FFDA" stroke-width="1.5" stroke-dasharray="4,2" stroke-opacity="0.8"/>
+  
+  <!-- Arrow tip -->
+  <polygon points="140,140 135,132 145,135" fill="#64FFDA" stroke="none"/>
+</svg>

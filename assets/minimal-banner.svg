@@ -1,0 +1,77 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with subtle gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A192F" />
+      <stop offset="100%" stop-color="#112240" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main background -->
+  <rect width="800" height="200" fill="url(#bg-gradient)" rx="8" ry="8"/>
+  
+  <!-- Minimal grid lines -->
+  <g stroke="#3E5278" stroke-width="0.5" opacity="0.2">
+    <line x1="266" y1="0" x2="266" y2="200" />
+    <line x1="533" y1="0" x2="533" y2="200" />
+  </g>
+  
+  <!-- HPC Section - Simplified server rack -->
+  <g transform="translate(133, 70)">
+    <!-- Server outline -->
+    <rect x="0" y="0" width="80" height="60" rx="3" fill="#2A3A5A" stroke="#64FFDA" stroke-width="1.5"/>
+    
+    <!-- Server slots -->
+    <rect x="10" y="10" width="60" height="10" rx="1" fill="#112240"/>
+    <rect x="10" y="25" width="60" height="10" rx="1" fill="#112240"/>
+    <rect x="10" y="40" width="60" height="10" rx="1" fill="#112240"/>
+    
+    <!-- Status light -->
+    <circle cx="15" cy="15" r="2" fill="#64FFDA">
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Label -->
+    <text x="40" y="85" font-family="Arial, sans-serif" font-size="12" fill="#64FFDA" text-anchor="middle">HPC</text>
+  </g>
+  
+  <!-- Cloud Section - Minimal cloud symbol -->
+  <g transform="translate(400, 70)">
+    <!-- Simplified cloud -->
+    <path d="M0,30 Q10,0 40,10 Q60,0 70,20 Q90,15 80,40 Q90,60 70,55 Q60,75 40,60 Q10,70 0,45 Q-10,35 0,30" 
+          fill="#2A3A5A" stroke="#64FFDA" stroke-width="1.5"/>
+    
+    <!-- Label -->
+    <text x="40" y="85" font-family="Arial, sans-serif" font-size="12" fill="#64FFDA" text-anchor="middle">Cloud</text>
+  </g>
+  
+  <!-- Green Computing Section - Leaf and energy symbol -->
+  <g transform="translate(666, 70)">
+    <!-- Energy symbol -->
+    <path d="M0,30 L20,30 L10,0 L30,30 L20,30 L30,60 L0,30" 
+          fill="#2A3A5A" stroke="#64FFDA" stroke-width="1.5"/>
+    
+    <!-- Leaf overlay -->
+    <path d="M40,10 C60,10 70,20 70,40 C70,60 60,70 40,70 C40,50 30,40 10,40 C30,40 40,30 40,10" 
+          fill="#4CAF50" fill-opacity="0.4" stroke="#64FFDA" stroke-width="1"/>
+    
+    <!-- Label -->
+    <text x="40" y="85" font-family="Arial, sans-serif" font-size="12" fill="#64FFDA" text-anchor="middle">Green</text>
+  </g>
+  
+  <!-- Connection lines between sections -->
+  <g stroke="#64FFDA" stroke-width="1" stroke-dasharray="5,3" opacity="0.6">
+    <path d="M230,100 C280,100 320,100 350,100" />
+    <path d="M490,100 C540,100 580,100 610,100" />
+  </g>
+  
+  <!-- Data flow animation -->
+  <g fill="#64FFDA" opacity="0.8">
+    <circle cx="290" cy="100" r="2">
+      <animate attributeName="cx" from="230" to="350" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="550" cy="100" r="2">
+      <animate attributeName="cx" from="490" to="610" dur="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
