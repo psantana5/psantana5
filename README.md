@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@psantana5_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psantana5/)
 [![Email](https://img.shields.io/badge/Email-pausantanapi2%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pausantanapi2@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/pausantana?style=flat-square&logo=github)](https://github.com/pausantana?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/psantana5?style=flat-square&logo=github)](https://github.com/pausantana?tab=followers)
 
 <img src="./assets/minimal-banner.svg" alt="Minimal banner showing HPC, cloud, and green computing concepts" width="800"/>
 
