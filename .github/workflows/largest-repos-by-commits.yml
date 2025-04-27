@@ -35,10 +35,15 @@ jobs:
           }).then(async response => {
             const repos = response.data;
             const commitCounts = await Promise.all(repos.map(async repo => {
+              // Add description to the returned object
               const commits = await axios.get(repo.commits_url.replace(\"{/sha}\", \"\"), {
                 headers: { Authorization: \"token \" + token }
               });
-              return { name: repo.name, commits: commits.data.length };
+              return { 
+                name: repo.name, 
+                commits: commits.data.length,
+                description: repo.description // Add this line
+              };
             }));
             
             const largestRepos = commitCounts.sort((a, b) => b.commits - a.commits).slice(0, 3);
