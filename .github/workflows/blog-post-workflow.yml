@@ -20,7 +20,7 @@ jobs:
           feed_list: "https://medium.com/feed/@psantana5_"
           max_post_count: 5
           comment_tag_name: "MEDIUM-BLOG-POST-LIST"
-          template: "- [$title]($url)"
+          template: "\n- [$title]($url)"
           commit_message: "actions-bot: update blog posts in readme.md"
           gh_token: ${{ secrets.GIT_TOKEN }}
           readme_path: "README.md"
