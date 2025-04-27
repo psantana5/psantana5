@@ -2,8 +2,8 @@ name: Update README with latest blog posts
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
-    - cron: "0 0 * * *"
+    # Runs every 6 hours instead of every day to avoid rate limiting
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual triggering
 
 jobs:
@@ -24,3 +24,6 @@ jobs:
           commit_message: "Update README with the latest Medium blog posts"
           gh_token: ${{ secrets.GIT_TOKEN }}
           readme_path: "README.md"
+          disable_sort: false
+          retry_count: 3
+          retry_wait_time: 60
