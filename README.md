@@ -17,7 +17,7 @@
 
 I'm a **DevOps Engineer & HPC Systems Administrator** with a passion for Linux, AI, and High-Performance Computing. I'm dedicated to bridging the gap between traditional HPC environments and modern DevOps practices to accelerate scientific discovery while minimizing environmental impact.
 
-Based in Spain, I thrive on challenges that combine technical expertise with innovative thinking, particularly in areas where computing power meets sustainability goals.
+Based in Sweden, I thrive on challenges that combine technical expertise with innovative thinking, particularly in areas where computing power meets sustainability goals.
 
 ## 💻 Skills & Technologies
 
