@@ -68,7 +68,7 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
   <a href="mailto:pausantanapi2@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## ⚡ Fun Facts
+## Fun Facts
 
 - Built my first HPC cluster at 18
 - Passionate about how computing can accelerate scientific discovery
@@ -78,5 +78,5 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 
 <div align="center">
   <img src="./assets/minimal-green-computing.svg" width="200" alt="Minimal Green Computing Icon" />
-  <p>💡 <i>"The most sustainable byte is the one you don't compute."</i></p>
+  <p><i>"The most sustainable byte is the one you don't compute."</i></p>
 </div>
