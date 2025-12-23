@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Pau Santana
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&height=100&lines=HPC computing."/>
+# Hi there! I'm Pau.
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@psantana5_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psantana5/)
@@ -13,13 +11,13 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-I'm a **DevOps Engineer & HPC Systems Administrator** with a passion for Linux, AI, and High-Performance Computing. I'm dedicated to bridging the gap between traditional HPC environments and modern DevOps practices to accelerate scientific discovery while minimizing environmental impact.
+I'm a **Linux-specialist & HPC Engineer** with a passion for Linux, AI, and High-Performance Computing. I'm dedicated to bridging the gap between traditional HPC environments and modern DevOps practices to accelerate scientific discovery while minimizing environmental impact.
 
 Based in Sweden, I thrive on challenges that combine technical expertise with innovative thinking, particularly in areas where computing power meets sustainability goals.
 
-## 💻 Skills & Technologies
+## Skills & Technologies
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -37,26 +35,26 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
   <img alt="Spack" src="https://img.shields.io/badge/-Spack-3F4551?style=flat-square&logo=spack&logoColor=white" />
 </p>
 
-## 🌱 Current Focus
+## Current Focus
 
-- 🐧 **Linux**: Deep expertise in Linux systems administration and optimization for high-performance environments
-- 🧠 **Artificial Intelligence**: Implementing AI solutions and infrastructure to support machine learning workloads
-- 🌿 **HPC**: Designing and implementing high-performance computing infrastructures for scientific research
-- 🔄 **Automation**: Creating comprehensive automation pipelines for scientific environments using Ansible, AWX, and Terraform
-- 🔍 **Monitoring**: Developing advanced monitoring solutions with Prometheus and Grafana to optimize resource usage
+- **Linux**: Deep expertise in Linux systems administration and optimization for high-performance environments
+- **Artificial Intelligence**: Implementing AI solutions and infrastructure to support machine learning workloads
+- **HPC**: Designing and implementing high-performance computing infrastructures for scientific research
+- **Automation**: Creating comprehensive automation pipelines for scientific environments using Ansible, AWX, and Terraform
+- **Monitoring**: Developing advanced monitoring solutions with Prometheus and Grafana to optimize resource usage
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psantana5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psantana5&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 📝 Recent Blog Posts
+## Recent Blog Posts
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->- [Guide: Running RTMP + HLS with Docker and FFmpeg](https://medium.com/@psantana5_/guide-running-rtmp-hls-with-docker-and-ffmpeg-769c3f14462e?source=rss-d53a7a8dd318------2)- [Automating HPC Cluster Deployments with Ansible: A Modular, Scalable Approach](https://medium.com/@psantana5_/automating-hpc-cluster-deployments-with-ansible-a-modular-scalable-approach-0712bb97a19a?source=rss-d53a7a8dd318------2)- [Two Handy Bash Scripts for Linux Admins &amp; DevOps Engineers — Plus a Bonus at the End!](https://medium.com/@psantana5_/two-handy-bash-scripts-for-linux-admins-devops-engineers-plus-a-bonus-at-the-end-8b0ca301c485?source=rss-d53a7a8dd318------2)- [Understanding Docker: A Beginner’s Guide](https://medium.com/@psantana5_/understanding-docker-a-beginners-guide-527ca9e82afa?source=rss-d53a7a8dd318------2)- [The Linux distros madness…what distro should I pick?](https://medium.com/@psantana5_/the-linux-distros-madness-what-distro-should-i-pick-3b37330e4bef?source=rss-d53a7a8dd318------2)<!-- MEDIUM-BLOG-POST-LIST:END -->
 
-## 💼 Key Projects
+## Key Projects
 
 <!-- DYNAMIC_REPOS_START -->
 - [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts. Final project at LinkiaFP for Pau Santana.
@@ -64,7 +62,7 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 - [**firewall**](https://github.com/psantana5/firewall) - 🔥🔒 Small Firewall Project 🌐🛡️  The firewall project is a network security application implemented in C++. 
 <!-- DYNAMIC_REPOS_END -->
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/psantana5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -74,9 +72,9 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 
 ## ⚡ Fun Facts
 
-- 🖥️ Built my first HPC cluster at 18
-- 🌍 Passionate about how computing can accelerate scientific discovery
-- 🔋 I can talk for hours about linux optimization
+- Built my first HPC cluster at 18
+- Passionate about how computing can accelerate scientific discovery
+- I can talk for hours about linux optimization
 
 ---
 
