@@ -7,8 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-pausantanapi2%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pausantanapi2@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/psantana5?style=flat-square&logo=github)](https://github.com/pausantana?tab=followers)
 
-<img src="./assets/minimal-banner.svg" alt="Minimal banner showing HPC, cloud, and green computing concepts" width="800"/>
-
 </div>
 
 ## About Me
