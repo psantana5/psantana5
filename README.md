@@ -75,8 +75,3 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 - I can talk for hours about linux optimization
 
 ---
-
-<div align="center">
-  <img src="./assets/minimal-green-computing.svg" width="200" alt="Minimal Green Computing Icon" />
-  <p><i>"The most sustainable byte is the one you don't compute."</i></p>
-</div>
