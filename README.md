@@ -57,7 +57,7 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 <!-- DYNAMIC_REPOS_START -->
 - [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts. Final project at LinkiaFP for Pau Santana.
 - [**bash-scripts**](https://github.com/psantana5/bash-scripts) -  Welcome to my Bash Playground Repository! 💻  Explore a collection of powerful scripts I've crafted to deploy, configure, and remove various services like DNS, FTP, Email, and Web Servers. Dive into the world of Bash scripting and unleash the true potential of automation. Join me on this exhilarating quest for mastery! ⚡️
-- [**ffmpeg-rtmp**](https://github.com/psantana5/ffmpeg-rtmp) - Deploy a fully-monitored stack of Docker containers for video/live streaming! Using ffmpeg, rtmp (nginx), Grafana and Prometheus. It also includes an experimental part of energy monitoring for streaming (WIP)
+- [**firewall**](https://github.com/psantana5/firewall) - 🔥🔒 Small Firewall Project 🌐🛡️  The firewall project is a network security application implemented in C++. 
 <!-- DYNAMIC_REPOS_END -->
 
 ## Connect With Me
