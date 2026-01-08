@@ -55,7 +55,7 @@ Based in Sweden, I thrive on challenges that combine technical expertise with in
 ## Key Projects
 
 <!-- DYNAMIC_REPOS_START -->
-- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts. Final project at LinkiaFP for Pau Santana.
+- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts.
 - [**bash-scripts**](https://github.com/psantana5/bash-scripts) -  Welcome to my Bash Playground Repository! 💻  Explore a collection of powerful scripts I've crafted to deploy, configure, and remove various services like DNS, FTP, Email, and Web Servers. Dive into the world of Bash scripting and unleash the true potential of automation. Join me on this exhilarating quest for mastery! ⚡️
 - [**ffmpeg-rtmp**](https://github.com/psantana5/ffmpeg-rtmp) - Energy-aware streaming observability for performance optimization. Real-time RAPL power telemetry, automated FFmpeg benchmarking, and baseline-vs-test dashboards for power-to-performance insights.
 <!-- DYNAMIC_REPOS_END -->
