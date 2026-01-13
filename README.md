@@ -1,77 +1,72 @@
-<div align="center">
+# Pau Santana
 
-# Hi there! I'm Pau.
+Linux Specialist, CDN Team at GlobalConnect
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@psantana5_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psantana5/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@psantana5_)
 [![Email](https://img.shields.io/badge/Email-pausantanapi2%40gmail.com-red?style=flat-square&logo=gmail)](mailto:pausantanapi2@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/psantana5?style=flat-square&logo=github)](https://github.com/pausantana?tab=followers)
 
-</div>
+## Overview
 
-## About Me
+Linux specialist working on CDN infrastructure at GlobalConnect. Focused on systems administration, network optimization, and infrastructure automation. Background in high-performance computing with expertise in Linux systems optimization and cluster management.
 
-I'm a **Linux-specialist & HPC Engineer** with a passion for Linux, AI, and High-Performance Computing. I'm dedicated to bridging the gap between traditional HPC environments and modern DevOps practices to accelerate scientific discovery while minimizing environmental impact.
+## Technical Expertise
 
-Based in Sweden, I thrive on challenges that combine technical expertise with innovative thinking, particularly in areas where computing power meets sustainability goals.
+**Linux Systems**
+- Enterprise Linux administration (Rocky Linux, RHEL, Ubuntu)
+- System optimization and performance tuning
+- Kernel configuration and troubleshooting
+- CDN infrastructure management
 
-## Skills & Technologies
+**Network & Infrastructure**
+- Content delivery network operations
+- Network optimization and troubleshooting
+- Infrastructure as Code (Ansible, Terraform)
+- Configuration management and orchestration
 
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="OpenNebula" src="https://img.shields.io/badge/-OpenNebula-0097C8?style=flat-square&logo=opennebula&logoColor=white" />
-  <img alt="HPC" src="https://img.shields.io/badge/-HPC-6929C4?style=flat-square&logo=server&logoColor=white" />
-  <img alt="SLURM" src="https://img.shields.io/badge/-SLURM-2496ED?style=flat-square&logo=slurm&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img alt="Spack" src="https://img.shields.io/badge/-Spack-3F4551?style=flat-square&logo=spack&logoColor=white" />
-</p>
+**Cloud & Virtualization**
+- Cloud platforms (AWS, OpenNebula)
+- Container technologies (Docker, Singularity)
+- Virtualization and resource management
 
-## Current Focus
+**High-Performance Computing**
+- HPC cluster design and deployment
+- SLURM workload manager configuration
+- Scientific application optimization
+- Parallel computing environments
 
-- **Linux**: Deep expertise in Linux systems administration and optimization for high-performance environments
-- **Artificial Intelligence**: Implementing AI solutions and infrastructure to support machine learning workloads
-- **HPC**: Designing and implementing high-performance computing infrastructures for scientific research
-- **Automation**: Creating comprehensive automation pipelines for scientific environments using Ansible, AWX, and Terraform
-- **Monitoring**: Developing advanced monitoring solutions with Prometheus and Grafana to optimize resource usage
+**Monitoring & Observability**
+- Prometheus and Grafana implementations
+- System telemetry and metrics collection
+- Performance analysis and optimization
 
-## GitHub Stats
+**Development**
+- Bash scripting and automation
+- Python for system administration
+- C for system-level programming
+- Spack package management
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psantana5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psantana5&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Current Work
 
-## Recent Blog Posts
+- Linux systems administration for CDN infrastructure at GlobalConnect
+- Network optimization and performance tuning
+- Infrastructure automation and configuration management
+- Monitoring and observability solutions
+- Supporting content delivery operations
+
+## Technical Writing
 
 <!-- MEDIUM-BLOG-POST-LIST:START -->- [Guide: Running RTMP + HLS with Docker and FFmpeg](https://medium.com/@psantana5_/guide-running-rtmp-hls-with-docker-and-ffmpeg-769c3f14462e?source=rss-d53a7a8dd318------2)- [Automating HPC Cluster Deployments with Ansible: A Modular, Scalable Approach](https://medium.com/@psantana5_/automating-hpc-cluster-deployments-with-ansible-a-modular-scalable-approach-0712bb97a19a?source=rss-d53a7a8dd318------2)- [Two Handy Bash Scripts for Linux Admins &amp; DevOps Engineers — Plus a Bonus at the End!](https://medium.com/@psantana5_/two-handy-bash-scripts-for-linux-admins-devops-engineers-plus-a-bonus-at-the-end-8b0ca301c485?source=rss-d53a7a8dd318------2)- [Understanding Docker: A Beginner’s Guide](https://medium.com/@psantana5_/understanding-docker-a-beginners-guide-527ca9e82afa?source=rss-d53a7a8dd318------2)- [The Linux distros madness…what distro should I pick?](https://medium.com/@psantana5_/the-linux-distros-madness-what-distro-should-i-pick-3b37330e4bef?source=rss-d53a7a8dd318------2)<!-- MEDIUM-BLOG-POST-LIST:END -->
 
-## Key Projects
+## Selected Projects
 
-<!-- DYNAMIC_REPOS_START -->
-- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Set of Ansible playbooks for deploying and managing a High-Performance Computing (HPC) cluster for Rocky 8-9 hosts.
-- [**bash-scripts**](https://github.com/psantana5/bash-scripts) -  Welcome to my Bash Playground Repository! 💻  Explore a collection of powerful scripts I've crafted to deploy, configure, and remove various services like DNS, FTP, Email, and Web Servers. Dive into the world of Bash scripting and unleash the true potential of automation. Join me on this exhilarating quest for mastery! ⚡️
-- [**ffmpeg-rtmp**](https://github.com/psantana5/ffmpeg-rtmp) - Energy-aware streaming observability for performance optimization. Real-time RAPL power telemetry, automated FFmpeg benchmarking, and baseline-vs-test dashboards for power-to-performance insights.
-<!-- DYNAMIC_REPOS_END -->
+- [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Ansible playbooks for HPC cluster deployment and management on Rocky Linux 8-9
+- [**linux-reality-check**](https://github.com/psantana5/linux-reality-check) - Linux system administration and troubleshooting resource
+- [**ffmpeg-rtmp**](https://github.com/psantana5/ffmpeg-rtmp) - Energy-aware streaming observability with RAPL power telemetry and automated benchmarking
 
-## Connect With Me
+## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/psantana5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@psantana5_" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:pausantanapi2@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- LinkedIn: [psantana5](https://www.linkedin.com/in/psantana5/)
+- Medium: [@psantana5_](https://medium.com/@psantana5_)
+- Email: pausantanapi2@gmail.com
 
-## Fun Facts
-
-- Built my first HPC cluster at 18
-- Passionate about how computing can accelerate scientific discovery
-- I can talk for hours about linux optimization
-
-##
