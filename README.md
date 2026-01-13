@@ -56,14 +56,12 @@ Linux specialist working on CDN infrastructure at GlobalConnect. Focused on syst
 
 ## Technical Writing
 
-Recent articles on Medium:
-
 <!-- MEDIUM-BLOG-POST-LIST:START -->- [Guide: Running RTMP + HLS with Docker and FFmpeg](https://medium.com/@psantana5_/guide-running-rtmp-hls-with-docker-and-ffmpeg-769c3f14462e?source=rss-d53a7a8dd318------2)- [Automating HPC Cluster Deployments with Ansible: A Modular, Scalable Approach](https://medium.com/@psantana5_/automating-hpc-cluster-deployments-with-ansible-a-modular-scalable-approach-0712bb97a19a?source=rss-d53a7a8dd318------2)- [Two Handy Bash Scripts for Linux Admins &amp; DevOps Engineers — Plus a Bonus at the End!](https://medium.com/@psantana5_/two-handy-bash-scripts-for-linux-admins-devops-engineers-plus-a-bonus-at-the-end-8b0ca301c485?source=rss-d53a7a8dd318------2)- [Understanding Docker: A Beginner’s Guide](https://medium.com/@psantana5_/understanding-docker-a-beginners-guide-527ca9e82afa?source=rss-d53a7a8dd318------2)- [The Linux distros madness…what distro should I pick?](https://medium.com/@psantana5_/the-linux-distros-madness-what-distro-should-i-pick-3b37330e4bef?source=rss-d53a7a8dd318------2)<!-- MEDIUM-BLOG-POST-LIST:END -->
 
 ## Selected Projects
 
 - [**ansible-hpc**](https://github.com/psantana5/ansible-hpc) - Ansible playbooks for HPC cluster deployment and management on Rocky Linux 8-9
-- [**bash-scripts**](https://github.com/psantana5/bash-scripts) - System administration and service deployment automation scripts
+- [**linux-reality-check**](https://github.com/psantana5/linux-reality-check) - Linux system administration and troubleshooting resource
 - [**ffmpeg-rtmp**](https://github.com/psantana5/ffmpeg-rtmp) - Energy-aware streaming observability with RAPL power telemetry and automated benchmarking
 
 ## Contact
