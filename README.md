@@ -1,6 +1,6 @@
 # Pau Santana
 
-Linux Specialist & HPC Engineer
+Linux Specialist, CDN Team at GlobalConnect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psantana5/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@psantana5_)
@@ -8,7 +8,7 @@ Linux Specialist & HPC Engineer
 
 ## Overview
 
-Linux specialist and HPC engineer focused on high-performance computing infrastructure, systems administration, and automation. Specializing in Linux systems optimization, HPC cluster management, and infrastructure automation for scientific computing environments.
+Linux specialist working on CDN infrastructure at GlobalConnect. Focused on systems administration, network optimization, and infrastructure automation. Background in high-performance computing with expertise in Linux systems optimization and cluster management.
 
 ## Technical Expertise
 
@@ -16,18 +16,24 @@ Linux specialist and HPC engineer focused on high-performance computing infrastr
 - Enterprise Linux administration (Rocky Linux, RHEL, Ubuntu)
 - System optimization and performance tuning
 - Kernel configuration and troubleshooting
+- CDN infrastructure management
+
+**Network & Infrastructure**
+- Content delivery network operations
+- Network optimization and troubleshooting
+- Infrastructure as Code (Ansible, Terraform)
+- Configuration management and orchestration
+
+**Cloud & Virtualization**
+- Cloud platforms (AWS, OpenNebula)
+- Container technologies (Docker, Singularity)
+- Virtualization and resource management
 
 **High-Performance Computing**
 - HPC cluster design and deployment
 - SLURM workload manager configuration
 - Scientific application optimization
 - Parallel computing environments
-
-**Infrastructure & Automation**
-- Infrastructure as Code (Ansible, Terraform)
-- Configuration management and orchestration
-- Cloud platforms (AWS, OpenNebula)
-- Container technologies (Docker, Singularity)
 
 **Monitoring & Observability**
 - Prometheus and Grafana implementations
@@ -42,12 +48,11 @@ Linux specialist and HPC engineer focused on high-performance computing infrastr
 
 ## Current Work
 
-- Linux systems administration and optimization for HPC environments
-- HPC cluster infrastructure design and implementation
-- Automation pipeline development for scientific computing
-- AI infrastructure deployment and support
-- Resource monitoring and performance optimization
-- Integration of DevOps practices in traditional HPC workflows
+- Linux systems administration for CDN infrastructure at GlobalConnect
+- Network optimization and performance tuning
+- Infrastructure automation and configuration management
+- Monitoring and observability solutions
+- Supporting content delivery operations
 
 ## Technical Writing
 
