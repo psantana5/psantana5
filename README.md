@@ -9,7 +9,7 @@ Linux Specialist, CDN Team at GlobalConnect
 
 Linux Specialist working on CDN infrastructure at GlobalConnect.
 
-I enjoy systems programming, Linux internals, networking and performance engineering. Most of my projects are small Unix-style tools written in C, focused on understanding how Linux works and building software with minimal abstraction.
+I enjoy systems programming, Linux internals, networking and performance engineering. Most of my projects are small Unix-style tools written in C, focused on Linux internals, performance and Unix-style software.
 
 ## Technologies
 
