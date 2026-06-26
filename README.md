@@ -25,4 +25,3 @@ I enjoy systems programming, Linux internals, networking and performance enginee
 
 * **curldbg** – Lightweight HTTP debugging client written in C.
 * **ansible-hpc** – HPC cluster deployment with Ansible.
-* **linux-reality-check** – Linux performance experiments and benchmarking.
